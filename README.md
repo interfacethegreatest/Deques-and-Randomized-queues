@@ -1,5 +1,5 @@
 # Deques-and-Randomized-queues
-Princeton-University-Algorithms Module-Coursera-course-part-1---Week-2.
+Princeton-University-Algorithms Module-Coursera-course-part-1---Week-2 at about 80% score.
 
 Assignment represents the week two assignment sourced from;
 https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php
